@@ -1,0 +1,15 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button {
+    -fx-font-size: 14px;
+}
+
+.card{
+	-fx-stroke: grey;
+    -fx-stroke-width: 1;
+}
+
+.button:hover {
+	-fx-background-color: linear-gradient(from 25% 25% to 100% 100%, #a4e3f5, #00d4ff); -fx-border-color: #CBCBCB;
+
+}
